@@ -97,5 +97,5 @@ Olá🤝, me chamo Samuel Lima, atualmente atuo como desenvolvedor Back-End na C
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&layoutcustom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
