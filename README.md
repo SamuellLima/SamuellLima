@@ -65,7 +65,6 @@ Olá🤝, me chamo Samuel Lima, atualmente atuo como desenvolvedor Back-End na C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="PHP" 
