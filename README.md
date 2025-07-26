@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Hello 🤝 My name is Samuel Lima. I currently work as a Backend Developer at CriareTI and study Systems Analysis and Development at Uniasselvi. I'm originally from the countryside of São Paulo, currently living in Minas Gerais. I'm focused on building APIs, automations, and AI integrations using Python and JavaScript. I aim to document my projects following international standards, prioritizing technical excellence and continuous growth. I see programming as a path to fulfill my purpose and create meaningful impact.
+Hello🤝, my name is Samuel Lima. I currently work as a Back-End Developer at CriareTI and I'm studying Systems Analysis and Development at Uniasselvi. I’m originally from the countryside of São Paulo, but currently living in Minas Gerais. I'm focused on developing solutions using Python, JavaScript, AI, and automation. I’ve been aiming to document my projects following an international standard, prioritizing technical development and continuous growth. I see programming as a path to fulfill my purpose and create meaningful impact.
 
 <p align="left">
     <a href="https://github.com/SamuellLima?tab=repositories&sort=stargazers">
@@ -101,9 +101,9 @@ Hello 🤝 My name is Samuel Lima. I currently work as a Backend Developer at Cr
       height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&include_all_commits=true&locale=en" 
   />
-<img 
-      alt="Top Languages" 
+  <img 
+      alt="Languages" 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&layout=compact&custom_title=Top Languages&langs_count=9" 
-/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&layout=compact&custom_title=Languages&langs_count=9" 
+  />
 </div>
