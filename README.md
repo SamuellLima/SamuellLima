@@ -47,5 +47,6 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
 - [**Practice Daily:**](https://github.com/SamuellLima/SEU-REPOSITORIO-AQUI) Repository dedicated to daily practice and continuous improvement with a focus on Python, JavaScript and test automation.
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" alt="Coding GIF" width="500px"/>
+  <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" alt="Coding GIF" width="100%"/>
 </div>
+
