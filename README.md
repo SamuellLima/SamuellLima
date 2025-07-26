@@ -112,3 +112,18 @@ Hello🤝, my name is Samuel Lima. I currently work as a Back-End Developer at C
   />
 
 </p>
+
+---
+
+<br>
+<br>
+
+## **`Portfolio:`**
+
+- [<strong> practice daily: </strong>  ](https://github.com/VariableBee/seaborn-data-visualization) Repository dedicated to daily practice and continuous improvement with a focus on Python, JavaScript and test automation.
+<br>
+
+<!-- GIF -->
+<p align="text-align: center;">
+  <img align="center" src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" alt="Imagem">
+</p>
