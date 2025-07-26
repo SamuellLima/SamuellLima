@@ -1,13 +1,13 @@
 # ✝🐱‍💻 Samuel Lima
 
-**`Desenvolvedor BackEnd`**
+**`Backend developer`**
 
 Olá🤝, me chamo Samuel Lima, atualmente atuo como desenvolvedor Back-End na CriareTI e estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou natural do interior de São Paulo, porém no momento morando em MG. Estou focado no desenvolvimento de soluções usando Python, JavaScript, IA e automações. Tenho buscado documentar meus projetos com um padrão internacional, priorizando desenvolvimento técnico e evolução contínua. Vejo a programação como um caminho para cumprir meu propósito e gerar um impacto significativo.
 
 <p 
     <a href="https://github.com/SamuellLima?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
+            alt="Stars" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/SamuellLima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
@@ -19,6 +19,15 @@ Olá🤝, me chamo Samuel Lima, atualmente atuo como desenvolvedor Back-End na C
             src="https://custom-icon-badges.demolab.com/github/followers/SamuellLima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/samuel-lima-516a79233/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
 </p>
 
 ---
