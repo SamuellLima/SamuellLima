@@ -1,38 +1,36 @@
 # ✝🐱‍💻 Samuel Lima
 
-**`Backend developer`**
+**`Backend Developer`**
 
-Olá🤝, me chamo Samuel Lima, atualmente atuo como desenvolvedor Back-End na CriareTI e estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou natural do interior de São Paulo, porém no momento morando em MG. Estou focado no desenvolvimento de soluções usando Python, JavaScript, IA e automações. Tenho buscado documentar meus projetos com um padrão internacional, priorizando desenvolvimento técnico e evolução contínua. Vejo a programação como um caminho para cumprir meu propósito e gerar um impacto significativo.
+Hello 🤝 My name is Samuel Lima. I currently work as a Backend Developer at CriareTI and study Systems Analysis and Development at Uniasselvi. I'm originally from the countryside of São Paulo, currently living in Minas Gerais. I'm focused on building APIs, automations, and AI integrations using Python and JavaScript. I aim to document my projects following international standards, prioritizing technical excellence and continuous growth. I see programming as a path to fulfill my purpose and create meaningful impact.
 
-<p 
+<p align="left">
     <a href="https://github.com/SamuellLima?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SamuellLima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            title="Total GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/SamuellLima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/SamuellLima?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SamuellLima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/SamuellLima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/samuel-lima-516a79233/" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            title="Connect with me on LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
 
-</p>
-
 ---
 
-### 🧰 Linguagens e Tecnologias
+### 🧰 Languages & Tools
 
 <img 
     align="left" 
@@ -93,18 +91,19 @@ Olá🤝, me chamo Samuel Lima, atualmente atuo como desenvolvedor Back-End na C
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&include_all_commits=true&locale=en" 
   />
+  <img 
+      alt="Top Languages" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&layout=compact&custom_title=Top Languages&langs_count=9" 
+  />
+</div>
