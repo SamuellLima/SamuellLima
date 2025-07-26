@@ -101,9 +101,9 @@ Hello 🤝 My name is Samuel Lima. I currently work as a Backend Developer at Cr
       height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&include_all_commits=true&locale=en" 
   />
-  <img 
+<img 
       alt="Top Languages" 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&layout=compact&custom_title=Top Languages&langs_count=9" 
-  />
+/>
 </div>
