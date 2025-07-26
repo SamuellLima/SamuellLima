@@ -42,6 +42,8 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
 
 ---
 
+<br><br><br><br><br><br><br><br><br>
+
 ## **`Portfolio`**
 
 - [<strong>Practice Daily:</strong>](https://github.com/SamuellLima/SEU-REPOSITORIO-AQUI) Repository dedicated to daily practice and continuous improvement with a focus on Python, JavaScript and test automation.
