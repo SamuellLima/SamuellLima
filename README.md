@@ -40,9 +40,6 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
 </p>
 <br><br><br>
 
----
-
-<br><br><br>
 
 ## **`Portfolio`**
 
