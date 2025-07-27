@@ -39,7 +39,7 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
   <img align="left" alt="Top Langs" height="200"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&theme=tokyonight&custom_title=Technologies&langs_count=9" />
 </p>
 <br><br><br><br><br><br>
-<br><br><br><br><br><br>
+<br><br><br>
 
 ---
 
