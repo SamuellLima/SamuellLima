@@ -46,7 +46,7 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
 
 ## **`Portfolio`**
 
-- [<strong>Practice Daily:</strong>]([https://github.com/SamuellLima/SEU-REPOSITORIO-AQUI)](https://github.com/SamuellLima/daily-practices) Repository dedicated to daily practice and continuous improvement with a focus on Python, JavaScript and test automation.
+- [<strong>Practice Daily:</strong>](https://github.com/SamuellLima/daily-practices) Repository dedicated to daily practice and continuous improvement with a focus on Python, JavaScript and test automation.
 
 - [<strong> Renewable Economic Impact </strong>](https://github.com/SamuellLima/renewable-economic-impact/tree/main) More than just visualizing energy data, this project builds an economic analysis tool to answer one core question: how much does a country really save by choosing renewable energy over fossil fuels?
 
