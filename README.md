@@ -35,7 +35,7 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=EN" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=EN&hide_border=true" />
   <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&theme=tokyonight&custom_title=Technologies&langs_count=9" />
 </p>
 <br><br><br>
@@ -46,7 +46,7 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
 
 ## **`Portfolio`**
 
-- [<strong>Practice Daily:</strong>](https://github.com/SamuellLima/SEU-REPOSITORIO-AQUI) Repository dedicated to daily practice and continuous improvement with a focus on Python, JavaScript and test automation.
+- [<strong>Practice Daily:</strong>]([https://github.com/SamuellLima/SEU-REPOSITORIO-AQUI)](https://github.com/SamuellLima/daily-practices) Repository dedicated to daily practice and continuous improvement with a focus on Python, JavaScript and test automation.
 
 - [<strong> Renewable Economic Impact </strong>](https://github.com/SamuellLima/renewable-economic-impact/tree/main) More than just visualizing energy data, this project builds an economic analysis tool to answer one core question: how much does a country really save by choosing renewable energy over fossil fuels?
 
