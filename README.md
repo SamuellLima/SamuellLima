@@ -32,17 +32,28 @@ Hello 🤝, my name is Samuel Lima. I currently work as a Backend Developer at C
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=EN&hide_border=true" />
-  <img align="left" alt="Top Langs" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&theme=tokyonight&custom_title=Technologies&langs_count=9" />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SamuellLima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=EN" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellLima&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
+  />
+
 </p>
-<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
-
-
-<br><br><br><br><br><br><br>
+---
 
 ## **`Portfolio`**
 
